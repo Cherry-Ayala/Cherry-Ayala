@@ -39,7 +39,7 @@ Inspired by versatility - on and off the track.
 
 ---
 
-### ### 🏈🍳🎮🏎️🎬📺 Off the Clock
+### 🏈🍳🎮🏎️🎬📺 Off the Clock
 
 Football, cooking, gaming, racing, movies, and TV - these are just a few of the things that keep me inspired off the clock.
 
