@@ -9,8 +9,11 @@
 
 ### 💡 About Me
 
-I like writing code.<br>
-Like Sir Lewis Hamilton, I’m a man on many missions: Full Stack Developer, restaurant owner, entrepreneur.
+Full stack developer focused on AI integrations and legacy systems - modernization without the drama.
+
+Code, business, and food are my main interests. I run a restaurant, launch projects, and keep things moving.
+
+Inspired by versatility - on and off the track.
 
 ---
 
