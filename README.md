@@ -31,7 +31,7 @@ Inspired by versatility - on and off the track.
 
 ---
 
-### 🌎 Connect & Follow
+### 🌐 Socials
 
 - <b>X (Twitter):</b> [@cherryartweets](https://x.com/cherryartweets?s=21)
 - <b>Letterboxd:</b> [cherry-ayala](https://boxd.it/c7tXf)
@@ -39,9 +39,9 @@ Inspired by versatility - on and off the track.
 
 ---
 
-### 🎮 Hobbies
+### 🏈🍳🎮🏎️ Off the Clock
 
-NFL • Cooking • Videogames • F1
+Football, cooking, gaming, and racing, these are just a few of the things that keep me inspired off the clock.
 
 ---
 
@@ -50,17 +50,3 @@ NFL • Cooking • Videogames • F1
 I’ve appeared on TV three times, and John Cena follows me on Twitter.
 
 ---
-<!--
-**Cherry-Ayala/Cherry-Ayala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
