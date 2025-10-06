@@ -13,7 +13,7 @@ Full stack developer focused on AI integrations and legacy systems - modernizati
 
 Code, business, and food are my main interests. I run a restaurant, launch projects, and keep things moving.
 
-Inspired by versatility - on and off the track.
+Inspired by versatility.
 
 ---
 
