@@ -37,11 +37,6 @@ Inspired by versatility.
 - <b>Letterboxd:</b> [cherry-ayala](https://boxd.it/c7tXf)
 - <b>LinkedIn:</b> [cherry-ayala](https://www.linkedin.com/in/cherry-ayala/)
 
----
-
-### 🏈🍳🎮🏎️🎬📺 Off the Clock
-
-Football, cooking, gaming, racing, movies, and TV - these are just a few of the things that keep me inspired off the clock.
 
 ---
 
